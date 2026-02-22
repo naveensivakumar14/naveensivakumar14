@@ -2,7 +2,7 @@
 
 
 # I am Naveenkumar <br>
-😇 Passionate UI developer | Creative Thinker | Problem Solving<br> <br>⭐ I am a MERN Stack developer<br><br>✌️ I love turning my ideas into beautiful interfaces<br><br>💻 Specialising in HTML, CSS, JavaScript and Tailwind CSS, React Js<br><br>🎯 Levelling Up my React, Next JS and Backend Skills<br><br>💡Building a creative and responsive full-stack web application<br><br>❤️ Let's create something awesome together<br>
+😇 Passionate Full Stack developer | Creative Thinker | Problem Solving<br> <br>⭐ I am a MERN Stack developer<br><br>✌️ I love turning my ideas into beautiful interfaces<br><br>💻 Specialising in HTML, CSS, JavaScript and Tailwind CSS, React Js<br><br>🎯 Levelling Up my React, Next JS and Backend Skills<br><br>💡Building a creative and responsive full-stack web application<br><br>❤️ Let's create something awesome together<br>
 
 
 ## 🌐 Socials:
